@@ -1,0 +1,1 @@
+PCA aplicado a MNIST y Regresión lineal.
